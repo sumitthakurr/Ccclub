@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QByDltd+8LbBhU9RW6YFZbbwpR17pnq756oK1Lx87iCw4kcUeQaRuBmOd9IbNxc4VxNT5vk0hUlnEOhg7bdxuQ==",
+  "success": true,
+  "projectFilePath": "F:\\Projects\\CaptionContest\\CaptionContestDAL\\CaptionContestDAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29911.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaptionContestWebApi", "CaptionContestWebApi.csproj", "{4D6F00D0-E9A8-4FF3-958C-E21DAFE8568B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaptionContestBIZ", "..\CaptionContestBIZ\CaptionContestBIZ.csproj", "{F6F8D77B-7239-44E4-B947-097F2FB8DE28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaptionContestDAL", "..\CaptionContestDAL\CaptionContestDAL.csproj", "{8B9CCE58-F2DC-4690-8974-3A29E0CC72B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{4D6F00D0-E9A8-4FF3-958C-E21DAFE8568B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D6F00D0-E9A8-4FF3-958C-E21DAFE8568B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D6F00D0-E9A8-4FF3-958C-E21DAFE8568B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6F8D77B-7239-44E4-B947-097F2FB8DE28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6F8D77B-7239-44E4-B947-097F2FB8DE28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6F8D77B-7239-44E4-B947-097F2FB8DE28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6F8D77B-7239-44E4-B947-097F2FB8DE28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B9CCE58-F2DC-4690-8974-3A29E0CC72B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B9CCE58-F2DC-4690-8974-3A29E0CC72B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B9CCE58-F2DC-4690-8974-3A29E0CC72B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B9CCE58-F2DC-4690-8974-3A29E0CC72B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
